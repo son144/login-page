@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: black;
+}
+.name {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.password {
+  display: flex;
+}
+.from-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 40px;
+}
+.email-width {
+  padding: 9px 266px 9px 15px;
+  border-radius: 7px;
+  color: #ffffff;
+  font-size: large;
+  border: 1px solid grey;
+}
+.twitter-width {
+  padding: 9px 223px;
+  border-radius: 7px;
+  border: none;
+  color: #ffffff;
+  background-color: #0096ff;
+  font-size: large;
+}
+.facebook-width {
+  padding: 9px 210px;
+  border-radius: 7px;
+  margin-bottom: 20px;
+  border: none;
+  color: #ffffff;
+  background-color: #1f4690;
+  font-size: large;
+}
+.account-width {
+  padding: 9px 192px;
+  border-radius: 7px;
+  border: none;
+  color: #ffffff;
+  background-color: #ff9f29;
+  font-size: large;
+}
+.name-width {
+  padding: 9px 11px;
+  margin-right: 16px;
+  border-radius: 7px;
+  font-size: large;
+  border: 1px solid grey;
+}
+.lname-width {
+  padding: 9px 11px;
+  border-radius: 7px;
+  font-size: large;
+  border: 1px solid grey;
+}
+.pass-width {
+  padding: 9px 11px;
+  margin-right: 16px;
+  border-radius: 7px;
+  font-size: large;
+  border: 1px solid grey;
+}
+.confrim-pass-width {
+  padding: 9px 11px;
+  border-radius: 7px;
+  font-size: large;
+  border: 1px solid grey;
+}
+.password {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.heading {
+  font-size: 40px;
+  font-weight: bolder;
+  margin-bottom: 20px;
+  margin-top: 70px;
+}
+.or {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 220px;
+  font-size: 15px;
+}
+.img {
+  margin-left: 10px;
+  margin-top: 150px;
+  margin-right: 120px;
+}
+.img-class {
+  margin-bottom: -50px;
+  width: 400px;
+}
+.outer-container {
+  height: 550px;
+  width: 1300px;
+  background-color: #cfd2cf;
+  margin-left: 110px;
+  margin-top: 130px;
+}
+.twitter {
+  margin-bottom: 50px;
+}
